@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4301075
+  lightness: 0.5985663
+  brandStrength: 0.9659498
+  brandColors:
+    - '#050304'
+    - '#FFFFFF'
+    - '#9A3A0D'
+    - '#F1AC0F'
+    - '#5BC7F2'
+  rhythmicContrast: 0.765233
+typography_spectrum: 0.4480287
+name: Hoopla
